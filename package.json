@@ -1,0 +1,19 @@
+{
+  "name": "plantillabots",
+  "version": "1.0.0",
+  "description": "🚀 **PlantillaBots** es una plantilla para la creación de bots en JavaScript. Proporciona una estructura básica y organizada para facilitar el desarrollo y la implementación de bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.6"
+  }
+}
